@@ -11,8 +11,8 @@ This Java program helps manage a large catalog of book records. It processes CSV
 
 ## How to Run
 1. Ensure Java is installed on your system.
-2. Compile the program using `javac BookRecordManager.java` .
-3. Run the program with `java BookRecordManager`.
+2. Compile the program using `javac driver.java` .
+3. Run the program.
 4. Follow the on-screen prompts to navigate through book records.
 
 ## Input Files
